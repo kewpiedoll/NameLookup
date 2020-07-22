@@ -3,8 +3,10 @@ Lookup popular US baby names 1880-2018
 
 clone repo including "names" folder (names files for years 1880 through 2018 from ssa.gov)
 
-````$ javac NameLookup.java
-$ java NameLookup````
+```
+$ javac NameLookup.java
+$ java NameLookup
+```
 
 or just
 `$ java NameLookup`
